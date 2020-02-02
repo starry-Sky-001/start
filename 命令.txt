@@ -1,0 +1,6 @@
+git clone    -- 拉取项目代码
+git status   -- 查看文件改变情况
+git add .    --- 添加文件
+git commit -m "....."  -- 提交文件
+git push  -- 将修改推到远程仓库
+git checkout .....  切换分支
